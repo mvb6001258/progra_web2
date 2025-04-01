@@ -1,0 +1,69 @@
+{
+    "pagina_presentacion": {
+      "nombre": "Alvaro Inturias Villaroel",
+      "descripcion": "Ingeniero en software con más de 10 años de experiencia en el desarrollo de soluciones tecnológicas innovadoras. Especialista en desarrollo web, aplicaciones móviles y arquitectura de software.",
+      "foto": "https://www.uag.mx/contenido/XV7WWRlcq6/jose-perez-flores_bgF.jpg",
+      "objetivo_profesional": "Seguir creciendo en el campo del desarrollo de software, contribuyendo con mis habilidades en proyectos que tengan un impacto significativo."
+    },
+    "habilidades": [
+      { "tecnologia": "JavaScript", "nivel": "Avanzado" },
+      { "tecnologia": "Python", "nivel": "Avanzado" },
+      { "tecnologia": "C#", "nivel": "Intermedio" },
+      { "tecnologia": "Ruby", "nivel": "Intermedio" },
+      { "tecnologia": "Java", "nivel": "Avanzado" }
+    ],
+    "proyectos": [
+      {
+        "nombre": "Cost-Control",
+        "descripcion": "Plataforma web que ayuda a los usuarios a administrar sus finanzas personales, establecer metas de ahorro y analizar sus gastos en tiempo real.",
+        "tecnologias": ["Spring Boot", "React", "MySQL", "Bootstrap"],
+        "enlace": "#"
+      },
+      {
+        "nombre": "LMS Pro",
+        "descripcion": "Sistema de gestión de aprendizaje con cursos interactivos, foros de discusión y exámenes automatizados.",
+        "tecnologias": ["Moodle", "PHP", "MySQL", "JavaScript"],
+        "enlace": "#"
+      }
+    ],
+    "experiencia_laboral": [
+      {
+        "empresa": "Tech Solutions",
+        "cargo": "Ingeniero de Software Senior",
+        "duracion": "2018 - Actualidad",
+        "responsabilidades": [
+          "Desarrollo y mantenimiento de aplicaciones web de alto rendimiento.",
+          "Implementación de arquitecturas escalables y seguras.",
+          "Optimización de bases de datos y procesamiento de grandes volúmenes de datos."
+        ]
+      },
+      {
+        "empresa": "Innovatech",
+        "cargo": "Desarrollador Full Stack",
+        "duracion": "2015 - 2018",
+        "responsabilidades": [
+          "Desarrollo de sistemas internos para la automatización de procesos.",
+          "Colaboración en proyectos ágiles con metodologías Scrum."
+        ]
+      }
+    ],
+    "educacion": [
+      {
+        "institucion": "Universidad Nacional",
+        "titulo": "Ingeniería en Software",
+        "duracion": "2010 - 2015"
+      }
+    ],
+    "certificaciones": [
+      { "nombre": "AWS Certified Solutions Architect", "entidad": "Amazon", "fecha": "2022" },
+      { "nombre": "Microsoft Certified: Azure Developer Associate", "entidad": "Microsoft", "fecha": "2021" },
+      { "nombre": "Scrum Master Professional Certificate (SMPC)", "entidad": "Scrum Institute", "fecha": "2020" }
+    ],
+    "contacto": {
+      "email": "ainturiasv@univalle.edu",
+      "telefono": "123-456-7890",
+      "linkedin": "https://linkedin.com/in/alvaro-inturias",
+      "github": "https://github.com/alvaro-inturias"
+    }
+  }
+  
